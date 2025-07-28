@@ -57,8 +57,3 @@ The project is deployed as a **web application using Streamlit** for interactive
 
 Users can upload MRI scans and choose a model to classify the image with real-time confidence output.
 
-## 🚀 How to Use
-1. Clone the repository
-2. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
